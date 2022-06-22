@@ -1,0 +1,15 @@
+artifact_uri: mlruns/2/ef122174d3d34dc0b144fefe9307504a/artifacts
+end_time: 1655821794684
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: ef122174d3d34dc0b144fefe9307504a
+run_uuid: ef122174d3d34dc0b144fefe9307504a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655821731276
+status: 3
+tags: []
+user_id: tiger0538

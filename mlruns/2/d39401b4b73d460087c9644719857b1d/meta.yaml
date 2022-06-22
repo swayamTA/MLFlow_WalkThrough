@@ -1,0 +1,15 @@
+artifact_uri: mlruns/2/d39401b4b73d460087c9644719857b1d/artifacts
+end_time: 1655821601073
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: d39401b4b73d460087c9644719857b1d
+run_uuid: d39401b4b73d460087c9644719857b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655821600970
+status: 3
+tags: []
+user_id: tiger0538
