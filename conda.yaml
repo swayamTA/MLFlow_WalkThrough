@@ -6,4 +6,4 @@ dependencies:
 - pip:
   - mlflow
   - cloudpickle==1.2.2
-name: mlflow-env
+name: mle-dev
